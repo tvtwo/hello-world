@@ -1,1 +1,1 @@
-# hello-world
+# hello-world Im Thato Michael Moroenyane on Github platform im tvtwo a very passionate Data Scientist that seeks to bring solutions to the world problems. Therefore im positive that the Data Science discipline will brings much solutions to big organizations
